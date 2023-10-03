@@ -1,6 +1,8 @@
 public class SistemaMedida {
     public static void main(String[] args) {
 		String plano = "M"; // M / T
+		
+		// Estrutura con dicional switch-case
 
 		switch (plano) {
 			case "T": {
