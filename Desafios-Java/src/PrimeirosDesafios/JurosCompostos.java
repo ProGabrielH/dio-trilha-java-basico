@@ -1,3 +1,5 @@
+package PrimeirosDesafios;
+
 import java.util.Scanner;
 
 public class JurosCompostos {
